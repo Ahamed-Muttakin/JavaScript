@@ -1,0 +1,9 @@
+body{
+    min-height: 100vh;
+    background: linear-gradient(white,gray);
+}
+#disp{
+    width: 100px;
+    height: 50px;
+    background: mediumturquoise;
+}
